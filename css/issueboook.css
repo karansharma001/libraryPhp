@@ -1,0 +1,43 @@
+:root {
+  -b-dark: #192e59;
+  --primary: #2e4a7e;
+  --light: #e4ebf2;
+  -l-b: #c4ddf2;
+}
+
+.issueBookcont {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    min-height: 55vh;
+    
+}
+
+.isshead {
+    /* border: 1px solid black; */
+    text-align: center;
+    background-color: #192e59;
+    color: white;
+    font-size: 18px;
+    padding: 10px;
+}
+
+.issue-book-form {
+    /* border: 1px solid black; */
+    padding: 20px;
+}
+
+.center {
+    border: 1px solid black;
+}
+
+#ibbtn {
+    background-color: #192e59;
+    color: white;
+    padding: 5px;
+    border: none;
+    border-radius: 4px;
+    margin: 0px 10px;
+    cursor: pointer;
+}

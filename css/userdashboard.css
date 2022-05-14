@@ -1,0 +1,32 @@
+:root {
+    -b-dark: #192e59;
+    --primary: #2e4a7e;
+    --light: #e4ebf2;
+    -l-b: #c4ddf2;
+  }
+  
+
+.user-data {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.udata-table {
+  border: 1px solid black;
+  margin: 20px;
+  width: 100%;
+  text-align: center;
+}
+
+.udata-table th, tr, td {
+  border: 1px solid black;
+  
+}
+
+.udata-table th {
+  background-color:#192e59;
+  color: white;
+}
+
+

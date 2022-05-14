@@ -1,0 +1,73 @@
+:root {
+  -b-dark: #192e59;
+  --primary: #2e4a7e;
+  --light: #e4ebf2;
+  -l-b: #c4ddf2;
+}
+
+.admin-features {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.admin-features-table {
+  border: 1px solid black;
+  margin: 20px;
+  width: 100%;
+  text-align: center;
+}
+
+.admin-features-table th,
+tr,
+td {
+  border: 1px solid black;
+}
+
+.admin-features-table th {
+  background-color: #192e59;
+  color: white;
+}
+
+.admin-f-btn {
+  border: none;
+  text-decoration: none;
+  color: white;
+  background-color: #192e59;
+  padding: 10px;
+  border-radius: 5px;
+  margin: 5px;
+  display: inline-block;
+  width: 150px;
+}
+
+.a-f-titles {
+  width: 70%;
+}
+
+.all-user-cont {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.all-users {
+  border: 1px solid black;
+  margin: 20px;
+  width: 100%;
+  text-align: center;
+}
+
+.all-users th,
+tr,
+td {
+  border: 1px solid black;
+}
+
+.all-users th {
+    background-color: #192e59;
+    color: white;
+  }
+
+/* Issue book css code */
+
